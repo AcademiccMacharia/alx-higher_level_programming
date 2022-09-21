@@ -26,5 +26,5 @@ Directory meme 😂
 | **Directory** | **Description** |
 | ------ | ----- |
 |`0x00-python-hello_world` | This directory covers python scripts, numbers, strings and lists |
-
+| `0x01-python-if_else_loops_functions` | This directory delves into python loops, if/else, functions and `range()` function |
  
