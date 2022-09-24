@@ -1,6 +1,6 @@
 # ALX-HIGHER_LEVEL_PROGRAMMING
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+![Python Logo](https://imgs.search.brave.com/FV2MNFUsE7t7jWLBreRKL-fFJsJmM1wE2qA2w9DJXFE/rs:fit:1639:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/RGdEd1RmY0lSNGll/ZHZvQ2hmRUFRSGFD/SiZwaWQ9QXBp)
 ### Tecnologies
 
 All files have been tested on Ubuntu 22.04 LTS using python3
