@@ -8,7 +8,7 @@ if __name__ == "__main__":
     elif i == 1:
         print(f"{i} argument")
     else:
-        print(f"{i} argument")
+        print(f"{i} arguments")
 
     if i >= 1:
         i = 0
