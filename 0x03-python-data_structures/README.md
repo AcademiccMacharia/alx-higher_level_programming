@@ -9,6 +9,7 @@ In this directory, I delve into python lists and tuples. List is a collection of
 	2. Tuples are defined by enclosing the elements in parentheses (()) instead of square brackets ([])
 
 Differences between tuples and lists:
+
 ![dif image](https://imgs.search.brave.com/Pd5ex5f3bnprIorgwlxBYFGhveAiZFGIPEvYKJWs3eo/rs:fit:905:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5h/YVcwR0o5cWhyM0Jx/Vk1mVDRDLWNnSGFE/NCZwaWQ9QXBp)
 
 -----------
