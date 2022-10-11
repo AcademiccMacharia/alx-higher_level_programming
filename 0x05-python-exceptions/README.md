@@ -7,7 +7,10 @@ In this repository, I delve into python errors and exceptions. There are two typ
 Directory tips:
 
 ![tip picture](https://imgs.search.brave.com/FCt1RDmbovB-wLtawaJWFJ8YCYkeVSiqUIYZCHytoKs/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/a0o1Y0JLN092dGlm/ZWF2cE5uN1RnSGFF/SyZwaWQ9QXBp)
+ 
+NOTE: 
 
+		"If you fail to plan for failure, you are planning to fail as an engineer."
 
 The table below contains files used in this directory as well as their descriptions. Let's delve into it :).
 
