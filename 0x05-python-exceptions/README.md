@@ -2,7 +2,11 @@
 
 ------
 
-In this repository, I delve into python exceptions as well as errors. Exception is an event which occurs during the execution of a program that disrupts the normal flow of the programs instructions. 
+In this repository, I delve into python errors and exceptions. There are two types of errors in Python, that is, Syntax Errors and Exceptions. An Exception is an error that happens during the execution of a program. Whenever there is an error, Python generates an exception that could be handled. It basically prevents the program from getting crashed.
+
+Directory tips:
+
+![tip picture](https://imgs.search.brave.com/FCt1RDmbovB-wLtawaJWFJ8YCYkeVSiqUIYZCHytoKs/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/a0o1Y0JLN092dGlm/ZWF2cE5uN1RnSGFF/SyZwaWQ9QXBp)
 
 
 The table below contains files used in this directory as well as their descriptions. Let's delve into it :).
