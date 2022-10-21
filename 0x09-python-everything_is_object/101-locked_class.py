@@ -8,6 +8,7 @@ dynmaically created attributes
 
 
 class LockedClass:
+    """Sets firstname as the only instance attribute."""
     __slots__ = ['first_name']
 
     def __init__(self):
