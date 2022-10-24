@@ -1,8 +1,8 @@
 #!/usr/bin/python3
+"""Class is defined."""
+
+
 Rectangle = __import__('9-rectangle').Rectangle
-
-
-"""Class defined."""
 
 
 class Square(Rectangle):
