@@ -6,7 +6,7 @@ In this directory, I take a deep delve into databases. There are several types o
 
 ![meme](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/rtcwz.jpg)
 
-The table below explains the files in this directory as well as their descriptions.
+The table below shows the files in this directory as well as their descriptions.
 
 | **Files** | **Description** |
 | -------- | --------- |
