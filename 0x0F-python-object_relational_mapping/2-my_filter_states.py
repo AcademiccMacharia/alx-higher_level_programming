@@ -17,5 +17,5 @@ if __name__ == '__main__':
             WHERE name = '{}';".format(sys.argv[4]))
     states = cur.fetchall()
 
-    for row in states:
-        print(row)
+    for state in states:
+        print(state)
