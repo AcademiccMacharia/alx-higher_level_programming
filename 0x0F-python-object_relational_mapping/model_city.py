@@ -1,14 +1,12 @@
 #!/usr/bin/python3
 
 """
-New
+Contains the class definition of a city
 """
 
-from sqlalchemy import MetaData, Column, Integer, String
+from model_state import Base
+from sqlalchemy import Column, Integer, String, ForeignKey
 from sqlalchemy.orm import declarative_base
-
-mymetadata = MetaData()
-Base = declarative_base(metadata=mymetadata)
 
 
 class City(Base):
