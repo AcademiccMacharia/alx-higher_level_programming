@@ -10,6 +10,7 @@ from sqlalchemy.orm import declarative_base
 mymetadata = MetaData()
 Base = declarative_base(metadata=mymetadata)
 
+
 class City(Base):
     """
     Class with id, name and state_id that links to cities
